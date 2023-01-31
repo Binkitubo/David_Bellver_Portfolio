@@ -33,11 +33,11 @@ const About = () => {
           </h1>
           <p>
             I'm a very ambitious Full-Stack Developer looking for a role in an
-            established IT company with the oppotunity to work with the latest
+            established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
           </p>
           <p>
-            I'm confident, naturally curious, and always working on improving my
+            I'm confident, curious, and always working on improving my
             skills by practicing and building new projects.
           </p>
           <p>
