@@ -68,7 +68,7 @@ const Home = () => {
             CONTACT ME
           </Link>
           <a
-            href="https://drive.google.com/file/d/1BlVBqZgZps9XbMv00UzgIpDICK0Uqxfl/view?usp=share_link"
+            href="https://drive.google.com/file/d/1a6i3DxgJ8N_4A1ivHJylFXjhYLlb4OsX/view?usp=share_link"
             className="flat-button"
           >
             <FontAwesomeIcon icon={faDownload} color="#ffd700" />
