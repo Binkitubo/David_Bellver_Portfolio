@@ -68,8 +68,9 @@ const Home = () => {
             CONTACT ME
           </Link>
           <a
-            href="https://drive.google.com/file/d/1a6i3DxgJ8N_4A1ivHJylFXjhYLlb4OsX/view?usp=share_link"
+            href="https://drive.google.com/file/d/1LSA0_cE6VXgQXsotlwTt4C2bxL5m8SM2/view?usp=sharing"
             className="flat-button"
+            download="David Bellver - CV Español"
           >
             <FontAwesomeIcon icon={faDownload} color="#ffd700" />
             RESUME

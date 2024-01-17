@@ -48,9 +48,11 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I'm interested in finding job opportunities - especially ambitious
-            or large projects. However, if you have other requests or questions
-            don't hesitate to contact me using the form below.
+            I'm actively seeking exciting job opportunities. I'm open to
+            exploring various opportunities and hearing about your unique needs.
+            If you have any specific requests or questions, please feel free to
+            reach out using the contact form below. I look forward to connecting
+            with you!
           </p>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
