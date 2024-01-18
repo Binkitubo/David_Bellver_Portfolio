@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/AvilaArt/one.png",
+            "title": "Ink Zone",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/AvilaArt/AvilaArt.png",
+            "title": "Avila Art Blog",
+            "description": "Next.js, React, Tailwind",
+            "url": "https://avila-art-blog.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/BeActtive/BeActtive.jpg",
+            "title": "BeActtive",
+            "description": "Next.js, React, Python, Tailwind, Jest",
+            "url": "https://www.beacttive.com/"
+        },
+        {
+            "cover": "/portfolio/4/one.png",
+            "title": "3D Portfolio",
+            "description": "React, Tailwind",
+            "url": "http://google.com"
+        }
+    ]
+}
