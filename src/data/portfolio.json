@@ -1,10 +1,10 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/AvilaArt/one.png",
-            "title": "Ink Zone",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/Ink_Zone/Ink_Zone.gif",
+            "title": "Ink Zone (Not deployed)",
+            "description": "React, Python, Bootstrap, PostgreSQL",
+            "url": "https://github.com/Binkitubo/Ink_Zone"
         },
         {
             "cover": "/portfolio/AvilaArt/AvilaArt.png",
@@ -15,14 +15,14 @@
         {
             "cover": "/portfolio/BeActtive/BeActtive.jpg",
             "title": "BeActtive",
-            "description": "Next.js, React, Python, Tailwind, Jest",
+            "description": "Next.js, React, Python, Tailwind, MongoDB",
             "url": "https://www.beacttive.com/"
         },
         {
-            "cover": "/portfolio/4/one.png",
-            "title": "3D Portfolio",
+            "cover": "/portfolio/3D_Portfolio/3D_Portfolio.png",
+            "title": "3D Portfolio (WIP)",
             "description": "React, Tailwind",
-            "url": "http://google.com"
+            "url": "https://david-bellver-3d-portfolio.vercel.app"
         }
     ]
 }
